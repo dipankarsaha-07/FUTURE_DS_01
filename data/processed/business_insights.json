@@ -1,0 +1,1368 @@
+{
+    "kpis": {
+        "total_revenue": 2297200.86,
+        "total_profit": 286397.02,
+        "overall_profit_margin_pct": 12.47,
+        "total_orders": 5009,
+        "total_customers": 793,
+        "total_units_sold": 37873,
+        "average_order_value": 458.61,
+        "average_profit_per_order": 57.18,
+        "unprofitable_orders_count": 1022,
+        "pct_unprofitable_orders": 20.4
+    },
+    "yearly_performance": [
+        {
+            "Order Year": 2014,
+            "Revenue": 484247.5,
+            "Profit": 49543.97,
+            "Orders": 969,
+            "Quantity": 7581,
+            "Profit_Margin_Pct": 10.23,
+            "YoY_Revenue_Growth_Pct": NaN,
+            "YoY_Profit_Growth_Pct": NaN
+        },
+        {
+            "Order Year": 2015,
+            "Revenue": 470532.51,
+            "Profit": 61618.6,
+            "Orders": 1038,
+            "Quantity": 7979,
+            "Profit_Margin_Pct": 13.1,
+            "YoY_Revenue_Growth_Pct": -2.83,
+            "YoY_Profit_Growth_Pct": 24.37
+        },
+        {
+            "Order Year": 2016,
+            "Revenue": 609205.6,
+            "Profit": 81795.17,
+            "Orders": 1315,
+            "Quantity": 9837,
+            "Profit_Margin_Pct": 13.43,
+            "YoY_Revenue_Growth_Pct": 29.47,
+            "YoY_Profit_Growth_Pct": 32.74
+        },
+        {
+            "Order Year": 2017,
+            "Revenue": 733215.26,
+            "Profit": 93439.27,
+            "Orders": 1687,
+            "Quantity": 12476,
+            "Profit_Margin_Pct": 12.74,
+            "YoY_Revenue_Growth_Pct": 20.36,
+            "YoY_Profit_Growth_Pct": 14.24
+        }
+    ],
+    "monthly_trends": [
+        {
+            "Order Year": 2014,
+            "Order Month": 1,
+            "Revenue": 14236.9,
+            "Profit": 2450.19,
+            "Orders": 32,
+            "Year_Month": "2014-01"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 2,
+            "Revenue": 4519.89,
+            "Profit": 862.31,
+            "Orders": 28,
+            "Year_Month": "2014-02"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 3,
+            "Revenue": 55691.01,
+            "Profit": 498.73,
+            "Orders": 71,
+            "Year_Month": "2014-03"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 4,
+            "Revenue": 28295.34,
+            "Profit": 3488.84,
+            "Orders": 66,
+            "Year_Month": "2014-04"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 5,
+            "Revenue": 23648.29,
+            "Profit": 2738.71,
+            "Orders": 69,
+            "Year_Month": "2014-05"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 6,
+            "Revenue": 34595.13,
+            "Profit": 4976.52,
+            "Orders": 66,
+            "Year_Month": "2014-06"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 7,
+            "Revenue": 33946.39,
+            "Profit": -841.48,
+            "Orders": 65,
+            "Year_Month": "2014-07"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 8,
+            "Revenue": 27909.47,
+            "Profit": 5318.1,
+            "Orders": 72,
+            "Year_Month": "2014-08"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 9,
+            "Revenue": 81777.35,
+            "Profit": 8328.1,
+            "Orders": 130,
+            "Year_Month": "2014-09"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 10,
+            "Revenue": 31453.39,
+            "Profit": 3448.26,
+            "Orders": 78,
+            "Year_Month": "2014-10"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 11,
+            "Revenue": 78628.72,
+            "Profit": 9292.13,
+            "Orders": 151,
+            "Year_Month": "2014-11"
+        },
+        {
+            "Order Year": 2014,
+            "Order Month": 12,
+            "Revenue": 69545.62,
+            "Profit": 8983.57,
+            "Orders": 141,
+            "Year_Month": "2014-12"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 1,
+            "Revenue": 18174.08,
+            "Profit": -3281.01,
+            "Orders": 29,
+            "Year_Month": "2015-01"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 2,
+            "Revenue": 11951.41,
+            "Profit": 2813.85,
+            "Orders": 36,
+            "Year_Month": "2015-02"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 3,
+            "Revenue": 38726.25,
+            "Profit": 9732.1,
+            "Orders": 79,
+            "Year_Month": "2015-03"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 4,
+            "Revenue": 34195.21,
+            "Profit": 4187.5,
+            "Orders": 72,
+            "Year_Month": "2015-04"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 5,
+            "Revenue": 30131.69,
+            "Profit": 4667.87,
+            "Orders": 74,
+            "Year_Month": "2015-05"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 6,
+            "Revenue": 24797.29,
+            "Profit": 3335.56,
+            "Orders": 68,
+            "Year_Month": "2015-06"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 7,
+            "Revenue": 28765.32,
+            "Profit": 3288.65,
+            "Orders": 66,
+            "Year_Month": "2015-07"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 8,
+            "Revenue": 36898.33,
+            "Profit": 5355.81,
+            "Orders": 68,
+            "Year_Month": "2015-08"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 9,
+            "Revenue": 64595.92,
+            "Profit": 8209.16,
+            "Orders": 140,
+            "Year_Month": "2015-09"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 10,
+            "Revenue": 31404.92,
+            "Profit": 2817.37,
+            "Orders": 87,
+            "Year_Month": "2015-10"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 11,
+            "Revenue": 75972.56,
+            "Profit": 12474.79,
+            "Orders": 158,
+            "Year_Month": "2015-11"
+        },
+        {
+            "Order Year": 2015,
+            "Order Month": 12,
+            "Revenue": 74919.52,
+            "Profit": 8016.97,
+            "Orders": 161,
+            "Year_Month": "2015-12"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 1,
+            "Revenue": 18542.49,
+            "Profit": 2824.82,
+            "Orders": 48,
+            "Year_Month": "2016-01"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 2,
+            "Revenue": 22978.82,
+            "Profit": 5004.58,
+            "Orders": 45,
+            "Year_Month": "2016-02"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 3,
+            "Revenue": 51715.88,
+            "Profit": 3611.97,
+            "Orders": 86,
+            "Year_Month": "2016-03"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 4,
+            "Revenue": 38750.04,
+            "Profit": 2977.81,
+            "Orders": 89,
+            "Year_Month": "2016-04"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 5,
+            "Revenue": 56987.73,
+            "Profit": 8662.15,
+            "Orders": 108,
+            "Year_Month": "2016-05"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 6,
+            "Revenue": 40344.53,
+            "Profit": 4750.38,
+            "Orders": 97,
+            "Year_Month": "2016-06"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 7,
+            "Revenue": 39261.96,
+            "Profit": 4432.88,
+            "Orders": 96,
+            "Year_Month": "2016-07"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 8,
+            "Revenue": 31115.37,
+            "Profit": 2062.07,
+            "Orders": 90,
+            "Year_Month": "2016-08"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 9,
+            "Revenue": 73410.02,
+            "Profit": 9328.66,
+            "Orders": 192,
+            "Year_Month": "2016-09"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 10,
+            "Revenue": 59687.74,
+            "Profit": 16243.14,
+            "Orders": 105,
+            "Year_Month": "2016-10"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 11,
+            "Revenue": 79411.97,
+            "Profit": 4011.41,
+            "Orders": 183,
+            "Year_Month": "2016-11"
+        },
+        {
+            "Order Year": 2016,
+            "Order Month": 12,
+            "Revenue": 96999.04,
+            "Profit": 17885.31,
+            "Orders": 176,
+            "Year_Month": "2016-12"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 1,
+            "Revenue": 43971.37,
+            "Profit": 7140.44,
+            "Orders": 69,
+            "Year_Month": "2017-01"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 2,
+            "Revenue": 20301.13,
+            "Profit": 1613.87,
+            "Orders": 53,
+            "Year_Month": "2017-02"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 3,
+            "Revenue": 58872.35,
+            "Profit": 14751.89,
+            "Orders": 118,
+            "Year_Month": "2017-03"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 4,
+            "Revenue": 36521.54,
+            "Profit": 933.29,
+            "Orders": 116,
+            "Year_Month": "2017-04"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 5,
+            "Revenue": 44261.11,
+            "Profit": 6342.58,
+            "Orders": 118,
+            "Year_Month": "2017-05"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 6,
+            "Revenue": 52981.73,
+            "Profit": 8223.34,
+            "Orders": 133,
+            "Year_Month": "2017-06"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 7,
+            "Revenue": 45264.42,
+            "Profit": 6952.62,
+            "Orders": 111,
+            "Year_Month": "2017-07"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 8,
+            "Revenue": 63120.89,
+            "Profit": 9040.96,
+            "Orders": 111,
+            "Year_Month": "2017-08"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 9,
+            "Revenue": 87866.65,
+            "Profit": 10991.56,
+            "Orders": 226,
+            "Year_Month": "2017-09"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 10,
+            "Revenue": 77776.92,
+            "Profit": 9275.28,
+            "Orders": 147,
+            "Year_Month": "2017-10"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 11,
+            "Revenue": 118447.82,
+            "Profit": 9690.1,
+            "Orders": 261,
+            "Year_Month": "2017-11"
+        },
+        {
+            "Order Year": 2017,
+            "Order Month": 12,
+            "Revenue": 83829.32,
+            "Profit": 8483.35,
+            "Orders": 224,
+            "Year_Month": "2017-12"
+        }
+    ],
+    "seasonality": [
+        {
+            "Order Month Name": "January",
+            "Revenue": 94924.84,
+            "Profit": 9134.45,
+            "Orders": 178,
+            "Profit_Margin_Pct": 9.62
+        },
+        {
+            "Order Month Name": "February",
+            "Revenue": 59751.25,
+            "Profit": 10294.61,
+            "Orders": 162,
+            "Profit_Margin_Pct": 17.23
+        },
+        {
+            "Order Month Name": "March",
+            "Revenue": 205005.49,
+            "Profit": 28594.69,
+            "Orders": 354,
+            "Profit_Margin_Pct": 13.95
+        },
+        {
+            "Order Month Name": "April",
+            "Revenue": 137762.13,
+            "Profit": 11587.44,
+            "Orders": 343,
+            "Profit_Margin_Pct": 8.41
+        },
+        {
+            "Order Month Name": "May",
+            "Revenue": 155028.81,
+            "Profit": 22411.31,
+            "Orders": 369,
+            "Profit_Margin_Pct": 14.46
+        },
+        {
+            "Order Month Name": "June",
+            "Revenue": 152718.68,
+            "Profit": 21285.8,
+            "Orders": 364,
+            "Profit_Margin_Pct": 13.94
+        },
+        {
+            "Order Month Name": "July",
+            "Revenue": 147238.1,
+            "Profit": 13832.66,
+            "Orders": 338,
+            "Profit_Margin_Pct": 9.39
+        },
+        {
+            "Order Month Name": "August",
+            "Revenue": 159044.06,
+            "Profit": 21776.94,
+            "Orders": 341,
+            "Profit_Margin_Pct": 13.69
+        },
+        {
+            "Order Month Name": "September",
+            "Revenue": 307649.95,
+            "Profit": 36857.48,
+            "Orders": 688,
+            "Profit_Margin_Pct": 11.98
+        },
+        {
+            "Order Month Name": "October",
+            "Revenue": 200322.98,
+            "Profit": 31784.04,
+            "Orders": 417,
+            "Profit_Margin_Pct": 15.87
+        },
+        {
+            "Order Month Name": "November",
+            "Revenue": 352461.07,
+            "Profit": 35468.43,
+            "Orders": 753,
+            "Profit_Margin_Pct": 10.06
+        },
+        {
+            "Order Month Name": "December",
+            "Revenue": 325293.5,
+            "Profit": 43369.19,
+            "Orders": 702,
+            "Profit_Margin_Pct": 13.33
+        }
+    ],
+    "category_performance": [
+        {
+            "Category": "Furniture",
+            "Revenue": 741999.8,
+            "Profit": 18451.27,
+            "Quantity": 8028,
+            "Avg_Discount": 0.17,
+            "Orders": 1764,
+            "Profit_Margin_Pct": 2.49,
+            "Revenue_Share_Pct": 32.3,
+            "Profit_Share_Pct": 6.44
+        },
+        {
+            "Category": "Office Supplies",
+            "Revenue": 719047.03,
+            "Profit": 122490.8,
+            "Quantity": 22906,
+            "Avg_Discount": 0.16,
+            "Orders": 3742,
+            "Profit_Margin_Pct": 17.04,
+            "Revenue_Share_Pct": 31.3,
+            "Profit_Share_Pct": 42.77
+        },
+        {
+            "Category": "Technology",
+            "Revenue": 836154.03,
+            "Profit": 145454.95,
+            "Quantity": 6939,
+            "Avg_Discount": 0.13,
+            "Orders": 1544,
+            "Profit_Margin_Pct": 17.4,
+            "Revenue_Share_Pct": 36.4,
+            "Profit_Share_Pct": 50.79
+        }
+    ],
+    "subcategory_performance": [
+        {
+            "Category": "Technology",
+            "Sub-Category": "Phones",
+            "Revenue": 330007.05,
+            "Profit": 44515.73,
+            "Quantity": 3289,
+            "Avg_Discount": 0.15,
+            "Profit_Margin_Pct": 13.49
+        },
+        {
+            "Category": "Furniture",
+            "Sub-Category": "Chairs",
+            "Revenue": 328449.1,
+            "Profit": 26590.17,
+            "Quantity": 2356,
+            "Avg_Discount": 0.17,
+            "Profit_Margin_Pct": 8.1
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Storage",
+            "Revenue": 223843.61,
+            "Profit": 21278.83,
+            "Quantity": 3158,
+            "Avg_Discount": 0.07,
+            "Profit_Margin_Pct": 9.51
+        },
+        {
+            "Category": "Furniture",
+            "Sub-Category": "Tables",
+            "Revenue": 206965.53,
+            "Profit": -17725.48,
+            "Quantity": 1241,
+            "Avg_Discount": 0.26,
+            "Profit_Margin_Pct": -8.56
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Binders",
+            "Revenue": 203412.73,
+            "Profit": 30221.76,
+            "Quantity": 5974,
+            "Avg_Discount": 0.37,
+            "Profit_Margin_Pct": 14.86
+        },
+        {
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 189238.63,
+            "Profit": 3384.76,
+            "Quantity": 440,
+            "Avg_Discount": 0.31,
+            "Profit_Margin_Pct": 1.79
+        },
+        {
+            "Category": "Technology",
+            "Sub-Category": "Accessories",
+            "Revenue": 167380.32,
+            "Profit": 41936.64,
+            "Quantity": 2976,
+            "Avg_Discount": 0.08,
+            "Profit_Margin_Pct": 25.05
+        },
+        {
+            "Category": "Technology",
+            "Sub-Category": "Copiers",
+            "Revenue": 149528.03,
+            "Profit": 55617.82,
+            "Quantity": 234,
+            "Avg_Discount": 0.16,
+            "Profit_Margin_Pct": 37.2
+        },
+        {
+            "Category": "Furniture",
+            "Sub-Category": "Bookcases",
+            "Revenue": 114880.0,
+            "Profit": -3472.56,
+            "Quantity": 868,
+            "Avg_Discount": 0.21,
+            "Profit_Margin_Pct": -3.02
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Appliances",
+            "Revenue": 107532.16,
+            "Profit": 18138.01,
+            "Quantity": 1729,
+            "Avg_Discount": 0.17,
+            "Profit_Margin_Pct": 16.87
+        },
+        {
+            "Category": "Furniture",
+            "Sub-Category": "Furnishings",
+            "Revenue": 91705.16,
+            "Profit": 13059.14,
+            "Quantity": 3563,
+            "Avg_Discount": 0.14,
+            "Profit_Margin_Pct": 14.24
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Paper",
+            "Revenue": 78479.21,
+            "Profit": 34053.57,
+            "Quantity": 5178,
+            "Avg_Discount": 0.07,
+            "Profit_Margin_Pct": 43.39
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Supplies",
+            "Revenue": 46673.54,
+            "Profit": -1189.1,
+            "Quantity": 647,
+            "Avg_Discount": 0.08,
+            "Profit_Margin_Pct": -2.55
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Art",
+            "Revenue": 27118.79,
+            "Profit": 6527.79,
+            "Quantity": 3000,
+            "Avg_Discount": 0.07,
+            "Profit_Margin_Pct": 24.07
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Envelopes",
+            "Revenue": 16476.4,
+            "Profit": 6964.18,
+            "Quantity": 906,
+            "Avg_Discount": 0.08,
+            "Profit_Margin_Pct": 42.27
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Labels",
+            "Revenue": 12486.31,
+            "Profit": 5546.25,
+            "Quantity": 1400,
+            "Avg_Discount": 0.07,
+            "Profit_Margin_Pct": 44.42
+        },
+        {
+            "Category": "Office Supplies",
+            "Sub-Category": "Fasteners",
+            "Revenue": 3024.28,
+            "Profit": 949.52,
+            "Quantity": 914,
+            "Avg_Discount": 0.08,
+            "Profit_Margin_Pct": 31.4
+        }
+    ],
+    "region_performance": [
+        {
+            "Region": "West",
+            "Revenue": 725457.82,
+            "Profit": 108418.45,
+            "Orders": 1611,
+            "Avg_Discount": 0.11,
+            "Profit_Margin_Pct": 14.94,
+            "Revenue_Share_Pct": 31.58,
+            "Profit_Share_Pct": 37.86
+        },
+        {
+            "Region": "East",
+            "Revenue": 678781.24,
+            "Profit": 91522.78,
+            "Orders": 1401,
+            "Avg_Discount": 0.15,
+            "Profit_Margin_Pct": 13.48,
+            "Revenue_Share_Pct": 29.55,
+            "Profit_Share_Pct": 31.96
+        },
+        {
+            "Region": "South",
+            "Revenue": 391721.9,
+            "Profit": 46749.43,
+            "Orders": 822,
+            "Avg_Discount": 0.15,
+            "Profit_Margin_Pct": 11.93,
+            "Revenue_Share_Pct": 17.05,
+            "Profit_Share_Pct": 16.32
+        },
+        {
+            "Region": "Central",
+            "Revenue": 501239.89,
+            "Profit": 39706.36,
+            "Orders": 1175,
+            "Avg_Discount": 0.24,
+            "Profit_Margin_Pct": 7.92,
+            "Revenue_Share_Pct": 21.82,
+            "Profit_Share_Pct": 13.86
+        }
+    ],
+    "top_10_states_profit": [
+        {
+            "State": "California",
+            "Revenue": 457687.63,
+            "Profit": 76381.39,
+            "Orders": 1021,
+            "Avg_Discount": 0.07,
+            "Profit_Margin_Pct": 16.69
+        },
+        {
+            "State": "New York",
+            "Revenue": 310876.27,
+            "Profit": 74038.55,
+            "Orders": 562,
+            "Avg_Discount": 0.06,
+            "Profit_Margin_Pct": 23.82
+        },
+        {
+            "State": "Washington",
+            "Revenue": 138641.27,
+            "Profit": 33402.65,
+            "Orders": 256,
+            "Avg_Discount": 0.06,
+            "Profit_Margin_Pct": 24.09
+        },
+        {
+            "State": "Michigan",
+            "Revenue": 76269.61,
+            "Profit": 24463.19,
+            "Orders": 117,
+            "Avg_Discount": 0.01,
+            "Profit_Margin_Pct": 32.07
+        },
+        {
+            "State": "Virginia",
+            "Revenue": 70636.72,
+            "Profit": 18597.95,
+            "Orders": 115,
+            "Avg_Discount": 0.0,
+            "Profit_Margin_Pct": 26.33
+        },
+        {
+            "State": "Indiana",
+            "Revenue": 53555.36,
+            "Profit": 18382.94,
+            "Orders": 73,
+            "Avg_Discount": 0.0,
+            "Profit_Margin_Pct": 34.33
+        },
+        {
+            "State": "Georgia",
+            "Revenue": 49095.84,
+            "Profit": 16250.04,
+            "Orders": 91,
+            "Avg_Discount": 0.0,
+            "Profit_Margin_Pct": 33.1
+        },
+        {
+            "State": "Kentucky",
+            "Revenue": 36591.75,
+            "Profit": 11199.7,
+            "Orders": 61,
+            "Avg_Discount": 0.0,
+            "Profit_Margin_Pct": 30.61
+        },
+        {
+            "State": "Minnesota",
+            "Revenue": 29863.15,
+            "Profit": 10823.19,
+            "Orders": 44,
+            "Avg_Discount": 0.0,
+            "Profit_Margin_Pct": 36.24
+        },
+        {
+            "State": "Delaware",
+            "Revenue": 27451.07,
+            "Profit": 9977.37,
+            "Orders": 44,
+            "Avg_Discount": 0.01,
+            "Profit_Margin_Pct": 36.35
+        }
+    ],
+    "bottom_10_states_profit": [
+        {
+            "State": "Texas",
+            "Revenue": 170188.05,
+            "Profit": -25729.36,
+            "Orders": 487,
+            "Avg_Discount": 0.37,
+            "Profit_Margin_Pct": -15.12
+        },
+        {
+            "State": "Ohio",
+            "Revenue": 78258.14,
+            "Profit": -16971.38,
+            "Orders": 236,
+            "Avg_Discount": 0.32,
+            "Profit_Margin_Pct": -21.69
+        },
+        {
+            "State": "Pennsylvania",
+            "Revenue": 116511.91,
+            "Profit": -15559.96,
+            "Orders": 288,
+            "Avg_Discount": 0.33,
+            "Profit_Margin_Pct": -13.35
+        },
+        {
+            "State": "Illinois",
+            "Revenue": 80166.1,
+            "Profit": -12607.89,
+            "Orders": 276,
+            "Avg_Discount": 0.39,
+            "Profit_Margin_Pct": -15.73
+        },
+        {
+            "State": "North Carolina",
+            "Revenue": 55603.16,
+            "Profit": -7490.91,
+            "Orders": 136,
+            "Avg_Discount": 0.28,
+            "Profit_Margin_Pct": -13.47
+        },
+        {
+            "State": "Colorado",
+            "Revenue": 32108.12,
+            "Profit": -6527.86,
+            "Orders": 79,
+            "Avg_Discount": 0.32,
+            "Profit_Margin_Pct": -20.33
+        },
+        {
+            "State": "Tennessee",
+            "Revenue": 30661.87,
+            "Profit": -5341.69,
+            "Orders": 91,
+            "Avg_Discount": 0.29,
+            "Profit_Margin_Pct": -17.42
+        },
+        {
+            "State": "Arizona",
+            "Revenue": 35282.0,
+            "Profit": -3427.92,
+            "Orders": 108,
+            "Avg_Discount": 0.3,
+            "Profit_Margin_Pct": -9.72
+        },
+        {
+            "State": "Florida",
+            "Revenue": 89473.71,
+            "Profit": -3399.3,
+            "Orders": 200,
+            "Avg_Discount": 0.3,
+            "Profit_Margin_Pct": -3.8
+        },
+        {
+            "State": "Oregon",
+            "Revenue": 17431.15,
+            "Profit": -1190.47,
+            "Orders": 56,
+            "Avg_Discount": 0.29,
+            "Profit_Margin_Pct": -6.83
+        }
+    ],
+    "top_10_revenue_products": [
+        {
+            "Product ID": "TEC-CO-10004722",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "Category": "Technology",
+            "Sub-Category": "Copiers",
+            "Revenue": 61599.82,
+            "Profit": 25199.93,
+            "Units_Sold": 20,
+            "Avg_Discount": 0.12,
+            "Profit_Margin_Pct": 40.91
+        },
+        {
+            "Product ID": "OFF-BI-10003527",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "Category": "Office Supplies",
+            "Sub-Category": "Binders",
+            "Revenue": 27453.38,
+            "Profit": 7753.04,
+            "Units_Sold": 31,
+            "Avg_Discount": 0.24,
+            "Profit_Margin_Pct": 28.24
+        },
+        {
+            "Product ID": "TEC-MA-10002412",
+            "Product Name": "Cisco TelePresence System EX90 Videoconferencing Unit",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 22638.48,
+            "Profit": -1811.08,
+            "Units_Sold": 6,
+            "Avg_Discount": 0.5,
+            "Profit_Margin_Pct": -8.0
+        },
+        {
+            "Product ID": "FUR-CH-10002024",
+            "Product Name": "HON 5400 Series Task Chairs for Big and Tall",
+            "Category": "Furniture",
+            "Sub-Category": "Chairs",
+            "Revenue": 21870.58,
+            "Profit": 0.0,
+            "Units_Sold": 39,
+            "Avg_Discount": 0.2,
+            "Profit_Margin_Pct": 0.0
+        },
+        {
+            "Product ID": "OFF-BI-10001359",
+            "Product Name": "GBC DocuBind TL300 Electric Binding System",
+            "Category": "Office Supplies",
+            "Sub-Category": "Binders",
+            "Revenue": 19823.48,
+            "Profit": 2233.51,
+            "Units_Sold": 37,
+            "Avg_Discount": 0.3,
+            "Profit_Margin_Pct": 11.27
+        },
+        {
+            "Product ID": "OFF-BI-10000545",
+            "Product Name": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "Category": "Office Supplies",
+            "Sub-Category": "Binders",
+            "Revenue": 19024.5,
+            "Profit": 760.98,
+            "Units_Sold": 48,
+            "Avg_Discount": 0.52,
+            "Profit_Margin_Pct": 4.0
+        },
+        {
+            "Product ID": "TEC-CO-10001449",
+            "Product Name": "Hewlett Packard LaserJet 3310 Copier",
+            "Category": "Technology",
+            "Sub-Category": "Copiers",
+            "Revenue": 18839.69,
+            "Profit": 6983.88,
+            "Units_Sold": 38,
+            "Avg_Discount": 0.2,
+            "Profit_Margin_Pct": 37.07
+        },
+        {
+            "Product ID": "TEC-MA-10001127",
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 18374.9,
+            "Profit": 4094.98,
+            "Units_Sold": 12,
+            "Avg_Discount": 0.17,
+            "Profit_Margin_Pct": 22.29
+        },
+        {
+            "Product ID": "OFF-BI-10004995",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "Category": "Office Supplies",
+            "Sub-Category": "Binders",
+            "Revenue": 17965.07,
+            "Profit": -1878.17,
+            "Units_Sold": 27,
+            "Avg_Discount": 0.45,
+            "Profit_Margin_Pct": -10.45
+        },
+        {
+            "Product ID": "OFF-SU-10000151",
+            "Product Name": "High Speed Automatic Electric Letter Opener",
+            "Category": "Office Supplies",
+            "Sub-Category": "Supplies",
+            "Revenue": 17030.31,
+            "Profit": -262.0,
+            "Units_Sold": 11,
+            "Avg_Discount": 0.07,
+            "Profit_Margin_Pct": -1.54
+        }
+    ],
+    "top_10_profit_products": [
+        {
+            "Product ID": "TEC-CO-10004722",
+            "Product Name": "Canon imageCLASS 2200 Advanced Copier",
+            "Category": "Technology",
+            "Sub-Category": "Copiers",
+            "Revenue": 61599.82,
+            "Profit": 25199.93,
+            "Units_Sold": 20,
+            "Avg_Discount": 0.12,
+            "Profit_Margin_Pct": 40.91
+        },
+        {
+            "Product ID": "OFF-BI-10003527",
+            "Product Name": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "Category": "Office Supplies",
+            "Sub-Category": "Binders",
+            "Revenue": 27453.38,
+            "Profit": 7753.04,
+            "Units_Sold": 31,
+            "Avg_Discount": 0.24,
+            "Profit_Margin_Pct": 28.24
+        },
+        {
+            "Product ID": "TEC-CO-10001449",
+            "Product Name": "Hewlett Packard LaserJet 3310 Copier",
+            "Category": "Technology",
+            "Sub-Category": "Copiers",
+            "Revenue": 18839.69,
+            "Profit": 6983.88,
+            "Units_Sold": 38,
+            "Avg_Discount": 0.2,
+            "Profit_Margin_Pct": 37.07
+        },
+        {
+            "Product ID": "TEC-CO-10003763",
+            "Product Name": "Canon PC1060 Personal Laser Copier",
+            "Category": "Technology",
+            "Sub-Category": "Copiers",
+            "Revenue": 11619.83,
+            "Profit": 4570.93,
+            "Units_Sold": 19,
+            "Avg_Discount": 0.15,
+            "Profit_Margin_Pct": 39.34
+        },
+        {
+            "Product ID": "TEC-MA-10001127",
+            "Product Name": "HP Designjet T520 Inkjet Large Format Printer - 24\" Color",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 18374.9,
+            "Profit": 4094.98,
+            "Units_Sold": 12,
+            "Avg_Discount": 0.17,
+            "Profit_Margin_Pct": 22.29
+        },
+        {
+            "Product ID": "TEC-MA-10003979",
+            "Product Name": "Ativa V4110MDD Micro-Cut Shredder",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 7699.89,
+            "Profit": 3772.95,
+            "Units_Sold": 11,
+            "Avg_Discount": 0.0,
+            "Profit_Margin_Pct": 49.0
+        },
+        {
+            "Product ID": "TEC-MA-10001047",
+            "Product Name": "3D Systems Cube Printer, 2nd Generation, Magenta",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 14299.89,
+            "Profit": 3717.97,
+            "Units_Sold": 11,
+            "Avg_Discount": 0.0,
+            "Profit_Margin_Pct": 26.0
+        },
+        {
+            "Product ID": "TEC-AC-10002049",
+            "Product Name": "Plantronics Savi W720 Multi-Device Wireless Headset System",
+            "Category": "Technology",
+            "Sub-Category": "Accessories",
+            "Revenue": 9367.29,
+            "Profit": 3696.28,
+            "Units_Sold": 24,
+            "Avg_Discount": 0.06,
+            "Profit_Margin_Pct": 39.46
+        },
+        {
+            "Product ID": "OFF-BI-10001120",
+            "Product Name": "Ibico EPK-21 Electric Binding System",
+            "Category": "Office Supplies",
+            "Sub-Category": "Binders",
+            "Revenue": 15875.92,
+            "Profit": 3345.28,
+            "Units_Sold": 13,
+            "Avg_Discount": 0.33,
+            "Profit_Margin_Pct": 21.07
+        },
+        {
+            "Product ID": "TEC-MA-10000045",
+            "Product Name": "Zebra ZM400 Thermal Label Printer",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 6965.7,
+            "Profit": 3343.54,
+            "Units_Sold": 6,
+            "Avg_Discount": 0.0,
+            "Profit_Margin_Pct": 48.0
+        }
+    ],
+    "bottom_10_profit_products": [
+        {
+            "Product ID": "TEC-MA-10000418",
+            "Product Name": "Cubify CubeX 3D Printer Double Head Print",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 11099.96,
+            "Profit": -8879.97,
+            "Units_Sold": 9,
+            "Avg_Discount": 0.53,
+            "Profit_Margin_Pct": -80.0
+        },
+        {
+            "Product ID": "TEC-MA-10000822",
+            "Product Name": "Lexmark MX611dhe Monochrome Laser Printer",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 16829.9,
+            "Profit": -4589.97,
+            "Units_Sold": 18,
+            "Avg_Discount": 0.4,
+            "Profit_Margin_Pct": -27.27
+        },
+        {
+            "Product ID": "TEC-MA-10004125",
+            "Product Name": "Cubify CubeX 3D Printer Triple Head Print",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 7999.98,
+            "Profit": -3839.99,
+            "Units_Sold": 4,
+            "Avg_Discount": 0.5,
+            "Profit_Margin_Pct": -48.0
+        },
+        {
+            "Product ID": "FUR-TA-10000198",
+            "Product Name": "Chromcraft Bull-Nose Wood Oval Conference Tables & Bases",
+            "Category": "Furniture",
+            "Sub-Category": "Tables",
+            "Revenue": 9917.64,
+            "Profit": -2876.12,
+            "Units_Sold": 27,
+            "Avg_Discount": 0.28,
+            "Profit_Margin_Pct": -29.0
+        },
+        {
+            "Product ID": "FUR-TA-10001889",
+            "Product Name": "Bush Advantage Collection Racetrack Conference Table",
+            "Category": "Furniture",
+            "Sub-Category": "Tables",
+            "Revenue": 9544.72,
+            "Profit": -1934.4,
+            "Units_Sold": 33,
+            "Avg_Discount": 0.35,
+            "Profit_Margin_Pct": -20.27
+        },
+        {
+            "Product ID": "OFF-BI-10004995",
+            "Product Name": "GBC DocuBind P400 Electric Binding System",
+            "Category": "Office Supplies",
+            "Sub-Category": "Binders",
+            "Revenue": 17965.07,
+            "Profit": -1878.17,
+            "Units_Sold": 27,
+            "Avg_Discount": 0.45,
+            "Profit_Margin_Pct": -10.45
+        },
+        {
+            "Product ID": "TEC-MA-10002412",
+            "Product Name": "Cisco TelePresence System EX90 Videoconferencing Unit",
+            "Category": "Technology",
+            "Sub-Category": "Machines",
+            "Revenue": 22638.48,
+            "Profit": -1811.08,
+            "Units_Sold": 6,
+            "Avg_Discount": 0.5,
+            "Profit_Margin_Pct": -8.0
+        },
+        {
+            "Product ID": "OFF-SU-10002881",
+            "Product Name": "Martin Yale Chadless Opener Electric Letter Opener",
+            "Category": "Office Supplies",
+            "Sub-Category": "Supplies",
+            "Revenue": 16656.2,
+            "Profit": -1299.18,
+            "Units_Sold": 22,
+            "Avg_Discount": 0.1,
+            "Profit_Margin_Pct": -7.8
+        },
+        {
+            "Product ID": "FUR-TA-10001950",
+            "Product Name": "Balt Solid Wood Round Tables",
+            "Category": "Furniture",
+            "Sub-Category": "Tables",
+            "Revenue": 6518.75,
+            "Profit": -1201.06,
+            "Units_Sold": 19,
+            "Avg_Discount": 0.2,
+            "Profit_Margin_Pct": -18.42
+        },
+        {
+            "Product ID": "FUR-TA-10004289",
+            "Product Name": "BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables",
+            "Category": "Furniture",
+            "Sub-Category": "Tables",
+            "Revenue": 1706.25,
+            "Profit": -1148.44,
+            "Units_Sold": 15,
+            "Avg_Discount": 0.48,
+            "Profit_Margin_Pct": -67.31
+        }
+    ],
+    "segment_performance": [
+        {
+            "Segment": "Consumer",
+            "Revenue": 1161401.34,
+            "Profit": 134119.21,
+            "Customers": 409,
+            "Orders": 2586,
+            "Avg_Discount": 0.16,
+            "Profit_Margin_Pct": 11.55,
+            "AOV": 449.11
+        },
+        {
+            "Segment": "Corporate",
+            "Revenue": 706146.37,
+            "Profit": 91979.13,
+            "Customers": 236,
+            "Orders": 1514,
+            "Avg_Discount": 0.16,
+            "Profit_Margin_Pct": 13.03,
+            "AOV": 466.41
+        },
+        {
+            "Segment": "Home Office",
+            "Revenue": 429653.15,
+            "Profit": 60298.68,
+            "Customers": 148,
+            "Orders": 909,
+            "Avg_Discount": 0.15,
+            "Profit_Margin_Pct": 14.03,
+            "AOV": 472.67
+        }
+    ],
+    "discount_sensitivity": [
+        {
+            "Discount Bracket": "0% (None)",
+            "Transactions": 4798,
+            "Revenue": 1087908.47,
+            "Profit": 320987.6,
+            "Avg_Profit_Per_Tx": 66.9,
+            "Loss_Transactions": 30,
+            "Profit_Margin_Pct": 29.51,
+            "Loss_Rate_Pct": 0.63
+        },
+        {
+            "Discount Bracket": "1% - 20% (Low)",
+            "Transactions": 3803,
+            "Revenue": 846522.24,
+            "Profit": 100785.47,
+            "Avg_Profit_Per_Tx": 26.5,
+            "Loss_Transactions": 545,
+            "Profit_Margin_Pct": 11.91,
+            "Loss_Rate_Pct": 14.33
+        },
+        {
+            "Discount Bracket": "21% - 40% (Moderate)",
+            "Transactions": 460,
+            "Revenue": 234137.9,
+            "Profit": -35817.47,
+            "Avg_Profit_Per_Tx": -77.86,
+            "Loss_Transactions": 428,
+            "Profit_Margin_Pct": -15.3,
+            "Loss_Rate_Pct": 93.04
+        },
+        {
+            "Discount Bracket": "> 40% (Steep)",
+            "Transactions": 933,
+            "Revenue": 128632.25,
+            "Profit": -99558.59,
+            "Avg_Profit_Per_Tx": -106.71,
+            "Loss_Transactions": 933,
+            "Profit_Margin_Pct": -77.4,
+            "Loss_Rate_Pct": 100.0
+        }
+    ],
+    "shipping_efficiency": [
+        {
+            "Ship Mode": "First Class",
+            "Orders": 787,
+            "Revenue": 351428.42,
+            "Profit": 48969.84,
+            "Avg_Ship_Days": 2.18,
+            "Profit_Margin_Pct": 13.93
+        },
+        {
+            "Ship Mode": "Same Day",
+            "Orders": 264,
+            "Revenue": 128363.12,
+            "Profit": 15891.76,
+            "Avg_Ship_Days": 0.04,
+            "Profit_Margin_Pct": 12.38
+        },
+        {
+            "Ship Mode": "Second Class",
+            "Orders": 964,
+            "Revenue": 459193.57,
+            "Profit": 57446.64,
+            "Avg_Ship_Days": 3.24,
+            "Profit_Margin_Pct": 12.51
+        },
+        {
+            "Ship Mode": "Standard Class",
+            "Orders": 2994,
+            "Revenue": 1358215.74,
+            "Profit": 164088.79,
+            "Avg_Ship_Days": 5.01,
+            "Profit_Margin_Pct": 12.08
+        }
+    ]
+}
