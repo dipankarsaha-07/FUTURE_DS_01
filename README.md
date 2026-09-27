@@ -1,17 +1,18 @@
 # Superstore Commercial Sales & Profitability Analytics Suite
 
-A professional data analytics project designed for real-world commercial advisory, business intelligence, and financial decision-making. Built using Python, Pandas, Matplotlib, Seaborn, and Chart.js on the [Kaggle Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+A professional data analytics project designed for real-world commercial advisory, business intelligence, and financial decision-making. Built using Python, Pandas, Matplotlib, Seaborn, and Chart.js.
 
 ---
 
 ## 📊 Project Overview
 
-This project simulates a senior commercial data analyst advising C-suite executives, business owners, and regional sales directors. Rather than just creating descriptive charts, this project performs **root-cause financial diagnostics** to solve core business problems:
+This project simulates a senior commercial data analyst advising C-suite executives, business owners, and regional sales directors. Rather than just creating descriptive charts, this project performs strategic business diagnostics with explicit financial recommendations and portfolio action planning.
+
 - **Top Revenue Generators vs Profit Drivers:** Unveiling top products like the Canon imageCLASS Copier ($25.2K profit) vs high-volume loss leaders like Cisco TelePresence (-$1.8K loss).
 - **Temporal Patterns & Seasonality:** Capturing multi-year +14.9% CAGR growth and navigating intense Q4 holiday seasonality (November & December account for >30% of sales).
 - **Category Profit Disparities:** Identifying why Furniture generates 32.3% of revenue ($742K) but only 2.49% profit margin due to heavy losses in Tables (-$17.7K) and Bookcases (-$3.5K).
 - **Geographic Margin Erosion:** Pinpointing why the Central region underperforms (7.9% margin) driven by heavy discounting in Texas (-$25.7K loss) and Illinois (-$12.6K loss).
-- **The Discount Margin Destruction Curve:** Empirically proving that transactions discounted above 20% experience an average **-15.3% margin** (93% loss rate), and discounts above 40% experience a **100% loss rate**.
+- **The Discount Margin Destruction Curve:** Empirically proving that transactions discounted above 20% experience an average **-15.3% margin** (93% loss rate), and discounts above 40% experience severe loss conditions.
 - **Actionable 4-Pillar Growth Playbook:** Concrete strategic initiatives to recover +$38,000 to +$55,000 in lost annual net profit.
 
 ---
@@ -81,7 +82,7 @@ python src/generate_dashboard.py
 ```
 
 ### 3. Open the Interactive Dashboard
-Double-click or open `reports/interactive_dashboard.html` in any modern web browser (Chrome, Edge, Firefox, Safari). No web server required—it is fully self-contained!
+Double-click or open [reports/interactive_dashboard.html](reports/interactive_dashboard.html) in any modern web browser (Chrome, Edge, Firefox, Safari). No web server required—it is fully self-contained!
 
 ---
 
